@@ -7,7 +7,7 @@
 int main(void)
 {
 	printf("Basics in C programming\n");
-	puts("Compling but does not link\n");
+	printf("Assemblying a code might be tough though\n");
 	return  (0);
 }
 
