@@ -2,12 +2,11 @@
 /**
  * main - Entry point
  *
- * Return: should 0 if is true then 1 if it is false
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	printf("Basics in C programming\n");
-	printf("Assemblying a code might be tough though\n");
+	printf("Cisfun\n");
 	return  (0);
 }
 
