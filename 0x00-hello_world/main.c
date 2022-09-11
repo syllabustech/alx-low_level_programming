@@ -6,8 +6,8 @@
  */
 int main(void)
 {
-	printf("Basics in C programming");
-
+	printf("Basics in C programming\n");
+	puts("Compling but does not link\n");
 	return  (0);
 }
 
