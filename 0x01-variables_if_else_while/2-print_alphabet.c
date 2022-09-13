@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  *
- * @n: params of the random number
+ * @ch: params of the alphabet
  *
  * Return: Always 0 (Success)
  */
@@ -12,7 +12,7 @@
 {
 	int ch;
 	/* this display alphabet in lowercase*/
-	for(ch='a';ch<='z';ch++)
+	for (ch = 'a'; ch <= 'z'; ch++)
 	{
 		putchar(ch);
 		putchar('\n');
